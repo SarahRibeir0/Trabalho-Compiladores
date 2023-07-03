@@ -1,0 +1,14 @@
+#include <programa2.txt
+//Este eh o primeiro arquivo do programa
+
+#define condicao = 3
+
+#if condicao == 4
+	string email = "if@gmail.com";
+#else
+	string email = "else@gmail.com";
+#endif
+
+if(email == "if@gmail.com"){
+	int i = 2;
+}
